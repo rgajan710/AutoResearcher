@@ -9,4 +9,4 @@ RUN pip install --upgrade pip && \
 
 EXPOSE 8501
 
-CMD ["streamlit", "run", "ui/app.py"]
+CMD ["streamlit", "run", "app.py"]
