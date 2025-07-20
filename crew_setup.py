@@ -11,10 +11,3 @@ if __name__ == "__main__":
     with open("outputs/paper_draft.txt", "w") as f:
         f.write(result)
 
-
-# auto_researcher/tools/search_tools.py
-from langchain.tools import DuckDuckGoSearchResults
-
-class WebSearchTool(DuckDuckGoSearchResults):
-    name = "web_search"
-    description = "Useful for finding trending AI research topics or papers."
