@@ -1,0 +1,9 @@
+crewai
+langchain
+openai
+faiss-cpu
+streamlit
+bs4
+selenium
+python-docx
+pylatex
