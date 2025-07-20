@@ -1,3 +1,4 @@
+os
 crewai
 langchain
 openai
