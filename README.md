@@ -117,4 +117,4 @@ MIT License
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by Rohan G.
+Rohan G.
